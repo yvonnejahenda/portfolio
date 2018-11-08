@@ -1,0 +1,116 @@
+/*body {*/
+    background-image: url(../image/Avengers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*@media only screen and (max-width: 600px) {*/
+    body {
+        background-color:grey;
+    }
+}
+
+/*header{*/
+	width: 90%;
+	color : red ;
+	text-align: center;
+	margin-top: 200px;
+	font-size: 125px;
+	position: absolute;
+
+
+	
+
+
+
+}
+h1{
+	color: yellow;
+	text-align: center;
+	position: relative;
+	top: 400px;
+	font-style:Sans serif;
+}
+.main{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+	overflow: hidden;
+	padding: 50px;
+	font-style: serif;
+	
+
+	}
+	h3{
+	color:grey;
+	
+}
+	
+
+	
+}
+.main li{
+	display: inline-block;
+
+}
+.main li a:hover{
+	background-color: #ccc;
+	transition:all-ease-in-out;
+
+}
+.main li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-size: 18px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+      padding:12px 20px;
+    
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+   
+    padding: 20px;
+    width: 500px;
+    height: 600px
+    position:relative;
+    top:10px;
+    margin-top: 10px;
+    
+   
+
+}
+.Contacts{
+	margin:0 auto;
+	text-align: center;
+	font-size: 30px;
+	color: red;
+	top:1200px;
+	position: relative;
+	top: 20px;
+	right: 300px;
+}

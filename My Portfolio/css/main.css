@@ -1,0 +1,63 @@
+body{
+	background-color:#blue;   
+background-image: url("GGI_Bamboo_cropped.jpg");
+}
+}
+h1{
+	/*text-align: center;*/
+	color: #ccc;
+	font-size: 5px;
+
+}
+h2{*/
+	font-size:20px;
+}
+header{
+
+		width: 100%;
+		/*height: 600px;*/
+		color: #000;
+		text-align: center;font-size:20px;
+		font-size: 90px;
+
+		}
+.P{color: blue;}
+.main{
+	/*float: right;*/
+	/*list-style: none;*/
+	margin-top: 0px;
+	width: 1314px;
+	height: 50px;
+	background-color: blue;
+	/*font-size: 30px;*/
+}
+.main li{
+	display: inline-block;
+	float: right;
+	font-size: 30px;
+
+}
+
+.main li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-size: 18px;
+	float: right;
+	font-size: 25px;
+	float: right;
+
+		}
+
+
+	footer{
+	text-align: center;
+	background-color: black;
+	font-weight: bolder;
+	height: 70px;
+	color: white;
+	width: 2000px;
+	font-size: 10px;
+
+}
+	
